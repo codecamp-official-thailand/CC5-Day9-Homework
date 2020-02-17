@@ -47,7 +47,7 @@ true != true            // false
 
 // 3. สร้าง String ที่มีค่า "Hello, It's me. "Mario"."
 
-let string1 = `Hello, It's me. "Mario".` //1
-console.log(string1)
-let string2 = "Hello, It's me. \"Mario\"." //2
-console.log(string2)
+let string1 = `Hello, It's me. "Mario".`; //1
+console.log(string1);
+let string2 = "Hello, It's me. \"Mario\"."; //2
+console.log(string2);
