@@ -46,3 +46,5 @@ true != true
 
 
 // 3. สร้าง String ที่มีค่า "Hello, It's me. "Mario"."
+
+let string = "Hello, It's me. 'Mario'."
