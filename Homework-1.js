@@ -1,8 +1,8 @@
 // 1. จงคำนวณค่าด้านล่างต่อไปนี้ และ คอมเม้นตอบหลังคำถาม
-5 + "34"            // ตอบตรงนี้
-5 ** 4              // ตอบตรงนี้
+5 + "34"            // ตอบตรงนี้ 534
+5 ** 4              // ตอบตรงนี้ 20
 5 - "4"             // ตอบตรงนี้
-10 % 5
+10 % 5              //iusfiuhdguhrgohc
 5 % 10;
 (2 ** 5) % 2
 "Java" + "Script"
@@ -11,7 +11,7 @@
 20 + 4 + "15"
 true + true
 true + false
-false + true
+false + trues
 false - true
 false - true + false - true + false;
 (true + true) ** 4
