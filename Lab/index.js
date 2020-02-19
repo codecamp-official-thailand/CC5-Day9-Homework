@@ -88,6 +88,7 @@ price = (yourAge < 18) ? 2000 : 3500;
 alert(price)
 
 
+
 // เสริมในคลาส
 // let isOver18 = confirm ('Over 18');
 // if (isOver18 > 18) {
