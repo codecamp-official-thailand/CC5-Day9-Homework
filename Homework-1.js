@@ -44,3 +44,4 @@ true === false; //false
 true != true; //false
 
 // 3. สร้าง String ที่มีค่า "Hello, It's me. "Mario"."
+Let myString = `Hello, It's me. /"Mario/".`
