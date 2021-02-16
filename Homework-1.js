@@ -21,6 +21,7 @@ false - true + false - true + false // -2
 "Code" + "Camp" + true + false + null + undefined	// "CodeCamptruefalsenullundefined"
 
 
+
 // 2. จงคำนวณค่าเปรียบเทียบต่อไปนี้ และ คอมเม้นตอบด้านหลังเหมือนข้างบน
 5 >= 1              // true
 0 === 1             // false
